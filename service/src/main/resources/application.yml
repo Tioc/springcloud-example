@@ -6,5 +6,5 @@ spring:
     config:
       server:
         git:
-          uri: file:/F:/IdeaProjects/springcloud-example/git-server
+          uri: https://github.com/Tioc/springcloud-example.git
           search-paths: config
