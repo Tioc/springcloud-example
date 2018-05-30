@@ -12,6 +12,14 @@
     <modules>
         <module>configuration-service</module>
         <module>configuration-client</module>
+        <module>eureka-service</module>
+        <module>eureka-client</module>
+        <module>bookstore</module>
+        <module>reading</module>
+        <module>say-hello</module>
+        <module>user</module>
+        <module>book</module>
+        <module>gateway</module>
     </modules>
 
 
