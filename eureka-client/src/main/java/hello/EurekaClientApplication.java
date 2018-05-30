@@ -15,7 +15,7 @@ import java.util.List;
 /**
  * @author Tioc
  * created on 2018/05/29
- * @apiNote
+ * @apiNote 服务注册发现
  */
 @EnableDiscoveryClient
 @SpringBootApplication

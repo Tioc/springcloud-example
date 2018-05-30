@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RestController;
 /**
  * @author Tioc
  * created on 2018/05/29
- * @apiNote
+ * @apiNote 断路器
  */
 @RestController
 @SpringBootApplication

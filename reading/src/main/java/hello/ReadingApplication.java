@@ -13,7 +13,7 @@ import org.springframework.web.client.RestTemplate;
 /**
  * @author Tioc
  * created on 2018/05/29
- * @apiNote
+ * @apiNote 断路器
  */
 @EnableCircuitBreaker
 @RestController
